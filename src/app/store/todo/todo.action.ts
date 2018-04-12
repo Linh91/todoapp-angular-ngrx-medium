@@ -1,6 +1,6 @@
 import { TodoState } from './todo.state';
 
-import Todo from '../../models/todo.models';
+import Todo from '../../models/todo.model';
 
 import { Action } from '@ngrx/store';
 
