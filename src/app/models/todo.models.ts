@@ -10,7 +10,7 @@ export default class Todo {
         this.title = ""
         this.description = ""
         this.date = new Date()
-        this.state = ""
+        this.status = ""
     }
 
     static generateMockTodo() : Todo {
